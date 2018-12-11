@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  Stocks
+
+  Created by Kevin Choi on 10/5/14.
+  Copyright (c) 2014 Kevin Choi. All rights reserved.
+*/
+
+
+"Please enter your name." = "请输入您的名字。";
+"-- Please Select --" = "-- 请选择 --";
+"aggressive" = "进取型";
+"balance" = "均衡型";
+"conservative" = "保守型";
+
+"americas" = "Americas";
+"emea" = "EMEA";
+"asia-pacific" = "Asia-Pacific";
+
+"united_states" = "United States";
+"mexico" = "Mexico";
+"canada" = "Canada";
+"brazil" = "Brazil";
+"argentina" = "Argentina";
+"colombia" = "Colombia";
+
+"france" = "France";
+"germany" = "Germany";
+"united_kingdom" = "United Kingdom";
+"greece" = "Greece";
+"ireland" = "Ireland";
+"italy" = "Italy";
+"netherlands" = "Netherlands";
+"sweden" = "Sweden";
+"norway" = "Norway";
+"switzerland" = "Switzerland";
+"denmark" = "Denmark";
+"austria" = "Austria";
+"portugal" = "Portugal";
+"spain" = "Spain";
+"poland" = "Poland";
+"russian_federation" = "Russian Federation";
+"turkey" = "Turkey";
+"israel" = "Israel";
+"saudi_arabia" = "Saudi Arabia";
+"united_arab_emirates" = "United Arab Emirates";
+"nigeria" = "Nigeria";
+"south_africa" = "South Africa";
+
+"australia" = "Australia";
+"new_zealand" = "New Zealand";
+"china" = "China";
+"hong_kong" = "Hong Kong";
+"indonesia" = "Indonesia";
+"india" = "India";
+"japan" = "Japan";
+"malaysia" = "Malaysia";
+"philippines" = "Philippines";
+"republic_of_korea" = "Republic of Korea";
+"taiwan" = "Taiwan";
+"thailand" = "Thailand";
+
+"Please enter all fields." = "Please enter all fields.";
+
+"Show Investment Total" = "Stock Sym & Name";
+"Total: " = "Total: ";
+"Buy Price" = "Buy Price";
+"Buy Qty" = "Buy Qty";
+"Buy Cost" = "Buy Cost";
+
+"Sell" = "Sell";
+"Buy More" = "Buy More";
+"Please enter Sell Price & Sell Qty:" = "Please enter Sell Price & Sell Qty.";
+"Please enter Buy Price & Buy Qty:" = "Please enter Buy Price & Buy Qty.";
+"OK" = "OK";
+"Cancel" = "Cancel";
+
+"Amt returned: " = "Amt returned: ";
+"Amt spent:" = "Amt spent:";
+
+"greenAsRise" = "Profit: Green  Loss: Red";
+"redAsRise" = "Profit: Red  Loss: Green";
+
+"BUY" = "BUY";
+"SELL" = "SELL";
+"jan" = "January";
+"feb" = "February";
+"mar" = "March";
+"apr" = "April";
+"may" = "May";
+"jun" = "June";
+"jul" = "July";
+"aug" = "August";
+"sep" = "September";
+"oct" = "October";
+"nov" = "November";
+"dec" = "December";
+"-- Year --" = "-- Year --";
+"-- Month --" = "-- Month --";
+
+"Total Profit" = "Total Profit";
+
+"Server Status Connecting..." = "Server Status             Connecting...";
+"Server Status Connected" = "Server Status             Connected";
+"Server Status Disconnected" = "Server Status             Disconnected";
+
+"Please enter topic." = "Please enter topic.";
+"You must sync with server before using this function!" = "You must sync with server before using this function!";
+"You must share your portfolio before using this function!" = "You must share your portfolio before using this function!";
+
+"Email" = "Email";
+"Enter your email" = "Enter your email";
+"Please enter your email." = "Please enter your email.";
+"Device has no photo library." = "Device has no photo library.";
